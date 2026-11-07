@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# per-machine config; copy from env.example.sh
+**/scripts/env.sh
